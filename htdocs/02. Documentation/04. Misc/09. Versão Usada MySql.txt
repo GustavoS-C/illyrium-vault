@@ -1,0 +1,11 @@
+Database Server
+Server type: MariaDB
+Server version: 10.4.19-MariaDB - mariadb.org binary distribution
+
+PHP version: 8.0.7Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/8.0.7
+Database client version: libmysql - mysqlnd 8.0.7
+PHP extension: mysqli
+PHP version: 8.0.7
+
+phpMyAdmin
+Version information: 5.1.3
